@@ -22,9 +22,9 @@
 <tr><td>TensorRT-8.6.0.12.Windows10.x86_64.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxZA==">下载</a></td><td>暂无</td></tr>
 <tr><td>TensorRT-8.6.0.12.Linux.x86_64-gnu.cuda-12.0.tar.gz</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxbQ==">下载</a></td><td>暂无</td></tr>
 <tr><td>TensorRT-8.6.0.12.Linux.x86_64-gnu.cuda-11.8.tar.gz</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxaw==">下载</a></td><td>暂无</td></tr>
-<tr><td>TensorRT-8.4.3.1.Windows10.x86_64.cuda-11.6.cudnn8.4.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwZw==">下载</a></td><td>暂无</td></tr>
-<tr><td>TensorRT-8.4.3.1.Windows10.x86_64.cuda-10.2.cudnn8.4.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwaw==">下载</a></td><td>暂无</td></tr>
-<tr><td>TensorRT-8.4.3.1.Linux.x86_64-gnu.cuda-11.6.cudnn8.4.tar.gz</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwZg==">下载</a></td><td>暂无</td></tr>
+<tr><td>TensorRT-8.4.3.1.Windows10.x86_64.cuda-11.6.cudnn8.4.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwZw==">下载</a></td><td>TensorRT 8.4 GA Update 2 for Windows 10 and CUDA 11.0, 11.1, 11.2, 11.3, 11.4, 11.5, 11.6 and 11.7 ZIP Package</td></tr>
+<tr><td>TensorRT-8.4.3.1.Windows10.x86_64.cuda-10.2.cudnn8.4.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwaw==">下载</a></td><td>TensorRT 8.4 GA Update 2 for Windows 10 and CUDA 10.2 ZIP Package</td></tr>
+<tr><td>TensorRT-8.4.3.1.Linux.x86_64-gnu.cuda-11.6.cudnn8.4.tar.gz</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwZg==">下载</a></td><td>TensorRT 8.4 GA Update 2 for Linux x86_64 and CUDA 11.0, 11.1, 11.2, 11.3, 11.4, 11.5, 11.6 and 11.7 TAR Package</td></tr>
 
 </tbody>
 </table>
