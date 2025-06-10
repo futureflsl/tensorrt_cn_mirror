@@ -11,8 +11,8 @@
 <tr><td>TensorRT-10.0.1.6.Windows10.win10.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxbA==">下载</a></td><td>暂无</td></tr>
 <tr><td>TensorRT-10.0.1.6.Linux.x86_64-gnu.cuda-12.4.tar.gz</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwaQ==">下载</a></td><td>暂无</td></tr>
 <tr><td>TensorRT-10.0.1.6.Linux.x86_64-gnu.cuda-11.8.tar.gz</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwaA==">下载</a></td><td>暂无</td></tr>
-<tr><td>TensorRT-10.0.0.6.Windows10.win10.cuda-12.4.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwag==">下载</a></td><td>暂无</td></tr>
-<tr><td>TensorRT-10.0.0.6.Windows10.win10.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxaA==">下载</a></td><td>暂无</td></tr>
+<tr><td>TensorRT-10.0.0.6.Windows10.win10.cuda-12.4.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxwag==">下载</a></td><td>TensorRT 10.0 EA for Windows 10 and CUDA 12.0 to 12.4 ZIP Package</td></tr>
+<tr><td>TensorRT-10.0.0.6.Windows10.win10.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxaA==">下载</a></td><td>TensorRT 10.0 EA for Windows 10 and CUDA 11.0 to 11.8 ZIP Package</td></tr>
 <tr><td>TensorRT-10.0.0.6.Linux.x86_64-gnu.cuda-12.4.tar.gz</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxZQ==">下载</a></td><td>暂无</td></tr>
 <tr><td>TensorRT-8.6.1.6.Windows10.x86_64.cuda-12.0.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxaQ==">下载</a></td><td>TensorRT 8.6 GA for Windows 10 and CUDA 12.0 and 12.1 ZIP Package</td></tr>
 <tr><td>TensorRT-8.6.1.6.Windows10.x86_64.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxxag==">下载</a></td><td>TensorRT 8.6 GA for Windows 10 and CUDA 11.0, 11.1, 11.2, 11.3, 11.4, 11.5, 11.6, 11.7 and 11.8 ZIP Package</td></tr>
