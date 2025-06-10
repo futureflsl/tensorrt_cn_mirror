@@ -1,8 +1,10 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th><th>备注</th></tr></thead>
 <tbody>
-<tr><td>TensorRT-10.10.0.31.Windows.win10.cuda-12.9.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxyag==">下载</a></td><td>暂无</td></tr>
-<tr><td>TensorRT-10.10.0.31.Windows.win10.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxyaw==">下载</a></td><td>暂无</td></tr>
+  <tr><td>TensorRT-10.11.0.33.Windows.win10.cuda-12.9.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZ5wZQ==">下载</a></td><td>TensorRT 10.11 GA for Windows 10, 11, Server 2022 and CUDA 12.0 to 12.9 ZIP Package</td></tr>
+<tr><td>TensorRT-10.11.0.33.Windows.win10.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZ5wZA==">下载</a></td><td>TensorRT 10.11 GA for Windows 10, 11, Server 2022 and CUDA 11.0 to 11.8 ZIP Package</td></tr>
+<tr><td>TensorRT-10.10.0.31.Windows.win10.cuda-12.9.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxyag==">下载</a></td><td>TensorRT 10.10 GA for Windows 10, 11, Server 2022 and CUDA 12.0 to 12.9 ZIP Package</td></tr>
+<tr><td>TensorRT-10.10.0.31.Windows.win10.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxyaw==">下载</a></td><td>TensorRT 10.10 GA for Windows 10, 11, Server 2022 and CUDA 11.0 to 11.8 ZIP Package</td></tr>
 <tr><td>TensorRT-10.9.0.34.Windows.win10.cuda-12.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxybA==">下载</a></td><td>TensorRT 10.9 GA for Windows 10, 11, Server 2022 and CUDA 12.0 to 12.8 ZIP Package</td></tr>
 <tr><td>TensorRT-10.9.0.34.Windows.win10.cuda-11.8.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxybQ==">下载</a></td><td>TensorRT 10.9 GA for Windows 10, 11, Server 2022 and CUDA 11.0 to 11.8 ZIP Package</td></tr>
 <tr><td>TensorRT-10.7.0.23.Windows.win10.cuda-12.6.zip</td><td><a href="https://mbd.pub/o/bread/YZWUlZxyaA==">下载</a></td><td>TensorRT 10.7 GA for Windows 10, 11, Server 2019, Server 2022 and CUDA 12.0 to 12.6 ZIP Package</td></tr>
